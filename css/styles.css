@@ -1,0 +1,104 @@
+/********************CLASS SELLECTORS******************/
+
+.attribution { font-size: 11px; text-align: right; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.bottom-container{
+  background-color: white;
+  border-radius: 3%;
+  border-style:solid;
+  border-width:4px 0 0 0;
+  border-width:5px 0 0 0;
+  box-shadow: 2px 2px 5px 1px lightgrey;
+  border-color:orange;
+  display:inline-block;
+  margin:13rem 0 0 0.5rem;
+  padding:0.3rem 1rem 0.8rem 1.5rem;
+  position:absolute;
+  width:15%;
+}
+.center-content{
+  width:80%;
+  margin:12px auto;
+  font-size: 0.7rem;
+  color:hsl(229, 6%, 66%);
+  margin-bottom:4rem;
+}
+.h1-bold{
+  color:hsl(234, 12%, 34%);
+}
+.h1-light{
+  color:hsl(229, 6%, 66%);
+  font-weight: normal;
+}
+.left-align{
+  text-align:left;
+}
+.left-container{
+  background-color: white;
+  border-radius: 3%;
+  border-style:solid;
+  border-width:4px 0 0 0;
+  box-shadow: 2px 2px 5px 1px lightgrey;
+  border-top-color:cyan;
+  display:inline-block;
+  margin:6rem 0.7rem 0 20.5rem;
+  padding:0.3rem 1rem 0.8rem 1.5rem;
+  width:15%;
+}
+.main-container{
+  width:30%;
+  margin:5% auto;
+  text-align: center;
+}
+.right-container{
+  background-color: white;
+  border-radius: 3%;
+  border-style:solid;
+  border-width:4px 0 0 0;
+  box-shadow: 2px 2px 5px 1px lightgrey;
+  border-top-color:blue;
+  display:inline-block;
+  margin:6rem 1rem 0 18.6rem;
+  padding:0.3rem 1rem 0.8rem 1.5rem;
+  position:absolute;
+  width:15%;
+}
+.top-container{
+  background-color: white;
+  border-radius: 3%;
+  border-style:solid;
+  border-width:4px 0 0 0;
+  box-shadow: 2px 2px 5px 1px lightgrey;
+  border-top-color:red;
+  display:inline-block;
+  margin:0 0 0 0.5rem;
+  padding:0.3rem 1rem 0.8rem 1.5rem;
+  position:absolute;
+  width:15%;
+}
+
+/********************BODY SELECTORS*********************/
+body{
+  background-color:hsl(0, 0%, 98%);
+  font-family: 'Poppins', sans-serif;
+
+}
+h1{
+  font-size: 1.5rem;
+  margin:0 auto;
+}
+p{
+  font-size: 0.6rem;
+  color:hsl(229, 6%, 66%);
+  margin-bottom:1.8rem;
+  width:85%;
+}
+h5{
+  color:hsl(234, 12%, 34%);
+  margin-bottom:0;
+}
+img{
+  bottom:1rem;
+  margin-left:75%;
+  width:23%;
+}
